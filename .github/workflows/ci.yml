@@ -344,3 +344,4 @@ jobs:
         shell: bash
         run: ${{ matrix.test_command }}
         working-directory: ./src/draco/tools/install_test
+        
